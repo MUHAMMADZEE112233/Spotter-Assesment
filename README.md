@@ -44,4 +44,3 @@ http://127.0.0.1:8000/api/docs/
 ```
 ### 7. Loom Video
 - The explanation using loom video can be find by using the [link](https://www.loom.com/share/c8251d7bb8444f8b93e0258afe1cda5e?sid=2e504a35-a1fd-4569-9f44-5c860eb25688)
-```
